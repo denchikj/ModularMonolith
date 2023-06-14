@@ -1,0 +1,10 @@
+@url = http://localhost:5000
+
+###
+GET {{url}}
+
+###
+GET {{url}}/conferences-module
+
+###
+GET {{url}}/speakers-module
